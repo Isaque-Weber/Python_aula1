@@ -1,0 +1,16 @@
+id,nome,idade,email,valor_compra,data_compra,cidade
+1, Maria Fernanda ,32,maria@email.com,250.00,12/01/2025,Rio de Janeiro
+2,Lucas Andrade,,lucas@email.com,180,2025/02/15,Niterói
+3,Ana Souza,29,ana@email.com,150.50,2025-03-10,Rio de Janeiro
+4,Bruno Lima,41,bruno@email.com,R$ 420,15-04-2025,Duque de Caxias
+5,Carla Mendes,34,carla@email.com,350.75,2025-05-20,Rio de Janeiro
+6,João Pedro,38,joaopedro@email.com, 275.90 ,2025/06/01,Niterói
+7,Ana Souza,29,ana@email.com,150.50,2025-03-10,Rio de Janeiro
+8,Beatriz Costa,27,beatriz@email.com,erro,2025-07-18,São Gonçalo
+9,Rafael Lima,,rafael@email.com,300.10,2025-08-03,Rio de Janeiro
+10, Fernanda Alves ,45,fernanda@email.com,500,2025-09-25,Rio de Janeiro
+11,Otavio Ramos,28,otavio@email.com,350.00,2025-13-01,Rio de Janeiro
+12,Natalia Pereira,33,natalia@email.com,,2025-11-15,Duque de Caxias
+13,Henrique Martins,19,henrique@email.com,90,2025-12-01,Niterói
+14,Marcos Oliveira,60,marcos@email.com,1000.00,01/12/2025,Rio de Janeiro
+15,Juliana Rocha,31,juliana@email.com,250.40,2025/10/12,Rio de Janeiro
