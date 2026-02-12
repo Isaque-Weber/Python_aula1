@@ -1,0 +1,48 @@
+
+# 🕵️‍♀️ Compilação de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 📦 Ambientes Virtuais (Virtual Environments)
+# A pasta do seu ambiente virtual nunca deve ser versionada
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# 📓 Jupyter Notebooks Checkpoints
+# Arquivos de backup automáticos do Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# 🌐 IDEs e Editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 🛠️ Distribuição e Instalação
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 🔒 Credenciais e Segredos
+# NUNCA versione arquivos de senhas ou tokens
+.env
+.secrets
